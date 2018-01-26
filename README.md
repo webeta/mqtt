@@ -1,5 +1,7 @@
 # MQTT协议中文版
 
+> 本开源书 forked from [MQTT协议中文版](https://github.com/mcxiaoke/mqtt)，作者为 [mcxiaoke](https://github.com/mcxiaoke)，欢迎大家 star 原作者的 [repo](https://github.com/mcxiaoke/mqtt)，以便获得最新更新，谢谢！
+
 by [mcxiaoke](https://github.com/mcxiaoke)
 
 **最新版本: v1.0.4 2017.04.05** (感谢 [@hentaicreep](https://github.com/hentaicreep) 修复多处表格错位问题 [PRs](https://github.com/mcxiaoke/mqtt/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ahentaicreep))
